@@ -13,7 +13,7 @@ The original script tries to solve the problem with nested for loop which is not
 The refactored code subsitutes nested for loop by adding arrays and variable and efficently using it on one loop. Which improves the codes run time and readability. 
 
 ## Summary
-The advantages of refactoring code is that the code becomes more simplified and efficient, resulting in better performance. The code can be also debugged and modified faster to accomodate different use cases.  <br />
+The advantages of refactoring code is that the code becomes more simplified and efficient, resulting in better performance. The code can be debugged and modified faster to accomodate different use cases.  <br />
 The disadvantages of refactoring code is that the process is very time consuming as the code is being rewritten with new logic. It requires full understanding of what the original code is doing so that you can create a more efficient system. It might not always be worth the risk as you weigh the time it takes to write a new code from scratch vs refactoring an old code that was written poorly. 
 <br />
 <br />
