@@ -13,4 +13,10 @@ The original script tries to solve the problem with nested for loop which is not
 The refactored code subsitutes nested for loop by adding arrays and variable and efficently using it on one loop. Which improves the code run time and readability. 
 
 ## Summary
-
+The advantages of refactoring code are the code becomes more simplified and efficient, resulting in better performance. The code can be also debugged and modified faster to accomodate different use cases.  <br />
+The disadvantages of refactoring code is that the process is very time consuming as the code is being rewritten with new logic. It requires full understanding of what the original code is doing so that you can create a more efficient system. It might not always be worth the risk as you weigh the time it takes to write a new code from scratch vs refactoring an old code that was written poorly. 
+<br />
+<br />
+The advantage of the original VBA script is that it worked and did the task successfully. Disadvantages being that the script cannot scale up very well as the data sets start to get larger. Modifying the script is also not easy as it was build for one specific task. 
+<br />
+The advantage of the refactored VBA script is that it does the same thing as the original but with better performance. Which helps if you want to analyze bigger data sets. It is also easier to understand, easier to maintain and has more functionality for the future. 
