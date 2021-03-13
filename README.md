@@ -3,6 +3,6 @@ This analysis looks into the data from 12 tickers in stock market for the year 2
 
 ## Results 
 ### before refactoring 
-"resources/2017_b4_refactor.png" width="400">
-"resources/2018_b4_refactor.png" width="400">
+"Resources/2017_b4_refactor.png" width="400">
+"Resources/2018_b4_refactor.png" width="400">
 
