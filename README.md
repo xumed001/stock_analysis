@@ -10,7 +10,7 @@ The original script tries to solve the problem with nested for loop which is not
 ### refactored 
 <img src="Resources/VBA_Challange_2017.png" width="400"> <img src="Resources/VBA_Challange_2018.png" width="400">
 
-The refactored code subsitutes nested for loop by adding arrays and variable and efficently using it on one loop. Which improves the code run time and readability. 
+The refactored code subsitutes nested for loop by adding arrays and variable and efficently using it on one loop. Which improves the codes run time and readability. 
 
 ## Summary
 The advantages of refactoring code are the code becomes more simplified and efficient, resulting in better performance. The code can be also debugged and modified faster to accomodate different use cases.  <br />
